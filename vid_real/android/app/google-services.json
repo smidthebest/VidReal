@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "140163100404",
+    "project_id": "vid-real",
+    "storage_bucket": "vid-real.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140163100404:android:61b90f1c84ffe107fe78a1",
+        "android_client_info": {
+          "package_name": "com.example.vid_real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140163100404-ru45gr5v47ck6e83el9etskmrc3alnvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6ouvUaswBvZu3kS7sOZdtyq9hBsxA3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140163100404-ru45gr5v47ck6e83el9etskmrc3alnvo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140163100404-t1cer1441mr2rtvo24rds4fn73g1jpft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vidReal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
